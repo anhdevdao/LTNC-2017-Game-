@@ -105,10 +105,10 @@ void gameInfo()
   cout << "           DAU VOI NGUOI";
   Goto(0, 4);
   TextColor(11);
-  cout << "Nguoi Choi 1" << endl
+  cout << "Player 1" << endl
        << "A,D,W,S" << endl
        << endl;
-  cout << "Nguoi choi 2" << endl
+  cout << "Player 2" << endl
        << "Phim di " << endl
        << "chuyen" << endl
        << endl;
